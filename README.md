@@ -45,4 +45,4 @@ gyp ERR! node-gyp -v v6.1.0
 gyp ERR! not ok
 
 
-i am facing error in creating binding.gyp file ..please help me 
+i am facing error in creating binding.gyp file ..please help me .
